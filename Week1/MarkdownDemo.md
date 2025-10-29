@@ -72,7 +72,9 @@ ___
 [^1]: KFC krz thur v 50
 
 Latex $sin(114514)=sin(5201314)$
+
 一大坨Latex
+
 $$
 \int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
 $$
